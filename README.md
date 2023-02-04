@@ -15,6 +15,7 @@
   <h2>Hello Coder,</h2>
  <ul>
   <li> I am Sandip Pandit. I Mechanical Engineer turned Coder</li>
+   <li> I love coding like a baby loves toy</li>
   <li> I have been a teacher,a jr engineer but currently i am a Software Engineer </li>
   </ul>
 
