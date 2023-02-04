@@ -33,6 +33,8 @@
 <div>
   <h3>Skill Set</h3>
   <h2>Progamming</h2>
-   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
-
+  <img src="https://camo.githubusercontent.com/2445258f402b6814c82108aee108719d366b80c0126868e74696d563acb04488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303030303f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=java" style="max-width: 100%;">
+   src="https://camo.githubusercontent.com/2445258f402b6814c82108aee108719d366b80c0126868e74696d563acb04488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303030303f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" style="max-width: 100%;">
+ 
+  
 </div>
