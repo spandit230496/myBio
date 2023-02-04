@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <h3>Skill Set</h3>
+  
   <h2>Progamming</h2>
   <a href="https://icons8.com/icon/Pd2x9GWu9ovX/java"></a>
  
