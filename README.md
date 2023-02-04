@@ -33,7 +33,7 @@
 <div>
   <h3>Skill Set</h3>
   <h2>Progamming</h2>
-  <img src="https://icons8.com/icon/Pd2x9GWu9ovX/java">
+  <img src="![image](https://user-images.githubusercontent.com/117799882/216743926-273fe395-5892-49fc-bfeb-7dfa32097116.png)">
 
  
   
