@@ -21,9 +21,9 @@
 </div>
 <div>
  <h2>Wants to Connect With me</h1>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-
-
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
+<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
+<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
 
 
 
