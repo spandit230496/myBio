@@ -11,3 +11,13 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+<div>
+  <h2>Hello Coder,</h2>
+ <ul>
+  <li> I am Sandip Pandit. I Mechanical Engineer turned Coder</li>
+  <li> I have been a teacher,a jr engineer but currently i am a Software Engineer </li>
+  </ul>
+
+
+  
+</div>
