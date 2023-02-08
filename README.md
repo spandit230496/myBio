@@ -33,7 +33,7 @@
 <br>
 <div>
   
-  <h2>Progamming</h2>
+  <h2>Programming</h2>
   <a href="https://icons8.com/icon/Pd2x9GWu9ovX/java"></a>
  
   
