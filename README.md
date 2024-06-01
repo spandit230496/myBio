@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandip Pandit</h1>
-<h3 align="center">A Mechanical Engineer tuned Developer</h3>
+<h3 align="center">A Mechanical Engineer turned Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandit230496&label=Profile%20views&color=0e75b6&style=flat" alt="spandit230496" /> </p>
 
